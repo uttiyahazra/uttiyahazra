@@ -1,5 +1,4 @@
 # About Me
-<meta name="google-site-verification" content="GuaEfNqu2pOWw1yze4OVzbNKrYCiG7WGcoMUob2kGMY" />
 ## Hi there!👋 I am Uttiya Hazra, I cordially welcome you to check out my GitHub Profile.
   
 - 🔭 I’m currently working on [Kubernetes Project](https://github.com/uttiyahazra/kubernetes-project)
