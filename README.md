@@ -9,7 +9,12 @@
 
 # Tools & Technologies 
 <img src="Docker.png" width="100" height="100">
-
+<img src="Kubernetes.png" width="100" height="100">
+<img src="Helm.png" width="100" height="100">
+<img src="NGINX.png" width="100" height="100">
+<img src="Cert-Manager.png" width="100" height="100">
+<img src="ArgoCD.png" width="100" height="100">
+<img src="Prometheus and Grafana.png" width="100" height="100">
 
 
 
