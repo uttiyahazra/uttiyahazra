@@ -8,7 +8,8 @@
 - 👨‍💻 All of my projects are available at https://github.com/uttiyahazra/
 
 # Tools & Technologies 
-<img src="Docker.png" width="200" height="150">>
+<img src="Docker.png" width="100" height="100">
+
 
 
 
