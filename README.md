@@ -8,8 +8,8 @@
 - 👨‍💻 All of my projects are available at https://github.com/uttiyahazra/
 
 # Tools & Technologies 
-<img src="Docker.png" width="100" height="80"> <img src="Kubernetes.png" width="100" height="80"> <img src="Helm.png" width="100" height="80">
-<img src="NGINX.png" width="100" height="80"> <img src="Cert-Manager.png" width="100" height="80"> <img src="ArgoCD.png" width="100" height="80"> <img src="Prometheus and Grafana.png" width="100" height="80">
+<img src="Docker.png" width="100" height="70"> <img src="Kubernetes.png" width="100" height="70"> <img src="Helm.png" width="100" height="70">
+<img src="NGINX.png" width="100" height="70"> <img src="Cert-Manager.png" width="100" height="70"> <img src="ArgoCD.png" width="100" height="70"> <img src="Prometheus and Grafana.png" width="100" height="70">
 
 
 
