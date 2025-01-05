@@ -11,9 +11,7 @@
 <a href="https://www.docker.com/" <img src="Docker.png" width="100" height="70"> </a>  <img src="Kubernetes.png" width="100" height="70"> <img src="Helm.png" width="100" height="70">
 <img src="NGINX.png" width="100" height="70"> <img src="Cert-Manager.png" width="100" height="70"> <img src="ArgoCD.png" width="100" height="70"> <img src="Prometheus and Grafana.png" width="100" height="70">
 
-<a href="https://www.docker.com/"> 
-  <img src="Docker.png" width="100" height="70"> 
-</a>
+<a href="https://www.docker.com/"> <img src="Docker.png" width="100" height="60"> </a> <a href="https://kubernetes.io/"> <img src="Kubernetes.png" width="100" height="60"> </a>
 
 
 
