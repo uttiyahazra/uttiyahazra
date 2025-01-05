@@ -8,6 +8,6 @@
 - 👨‍💻 All of my projects are available at https://github.com/uttiyahazra/
 
 # Tools & Technologies 
-[![Docker Image](https://img.shields.io/badge/Docker-Image-blue)](https://[your-docker-hub-repository-url])
+[![Docker](https://[your-image-hosting-url]/docker-logo.png)](https://www.docker.com/)
 
 
