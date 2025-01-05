@@ -8,6 +8,6 @@
 - 👨‍💻 All of my projects are available at https://github.com/uttiyahazra/
 
 # Tools & Technologies 
-![Kubernetes](https://kubernetes.io/img/kubernetes-logo-vertical.svg)
+![Kubernetes](https://kubernetes.io/)
 
 
