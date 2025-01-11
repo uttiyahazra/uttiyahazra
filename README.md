@@ -4,8 +4,8 @@
 - 🔭 I’m currently working on an _[Illustrative Kubernetes Project](https://github.com/uttiyahazra/kubernetes-project)_ ..._work in progress_...
 - 🌱 I’m currently exploring Kubernetes in-depth and simultaneously learning DevOps concepts & practices including _**VCS, CI-CD, Containerization, Monitoring & Logging**_ etc.
 - 💬 Ask me about _**Kubernetes**_ and _**Istio Service Mesh**_
-- 📫 How to reach me: _https://www.linkedin.com/in/uttiya-hazra-1a9714102/_
-- 👨‍💻 All of my projects are available at _https://github.com/uttiyahazra/_
+- 📫 How to reach me: _[Linkedin](https://www.linkedin.com/in/uttiya-hazra-1a9714102/)_
+- 👨‍💻 All of my projects are available at _[uttiyahazra](https://github.com/uttiyahazra/)_ 
 
 ![Uttiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=uttiyahazra&theme=cobalt&show_icons=true)
 
