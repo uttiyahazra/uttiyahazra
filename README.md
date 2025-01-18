@@ -1,7 +1,7 @@
 # About Me
 ## Hi there!👋 I am Uttiya Hazra, I cordially welcome you to check out my GitHub Profile.
   
-- 🔭 I’m currently working on an _[Illustrative Kubernetes Project](https://github.com/uttiyahazra/kubernetes-project)_ ..._work in progress_...
+- 🔭 I’m currently working on an _[Illustrative Demo Kubernetes Project](https://github.com/uttiyahazra/kubernetes-project)_ ..._work in progress_...
 - 🌱 I’m currently exploring Kubernetes in-depth and simultaneously learning DevOps concepts & practices including _**VCS, CI-CD, Containerization, Monitoring & Logging**_ etc.
 - 💬 Ask me about _**Kubernetes**_ and _**Istio Service Mesh**_
 - 📫 How to reach me: _[Linkedin](https://www.linkedin.com/in/uttiya-hazra-1a9714102/)_
