@@ -7,7 +7,7 @@
 - 📫 How to reach me: _[Linkedin](https://www.linkedin.com/in/uttiya-hazra-1a9714102/)_
 - 👨‍💻 All of my projects are available at _[uttiyahazra](https://github.com/uttiyahazra/)_ 
 
-![Uttiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=uttiyahazra)
+![Uttiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=uttiyahazra&show=reviews,discussions_started,discussions_answered)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=uttiyahazra&color=blue)
 
